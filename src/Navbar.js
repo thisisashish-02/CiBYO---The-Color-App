@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom'
-import Select from "@material-ui/core/Select";
-import MenuItem from "@material-ui/core/MenuItem";
-import Snackbar from "@material-ui/core/Snackbar";
-import IconButton from "@material-ui/core/IconButton";
-import CloseIcon from "@material-ui/icons/Close";
+import Select from '@material-ui/core/Select';
+import MenuItem from '@material-ui/core/MenuItem';
+import Snackbar from '@material-ui/core/Snackbar';
+import IconButton from '@material-ui/core/IconButton';
+import CloseIcon from '@material-ui/icons/Close';
 import Slider from 'rc-slider';
 import 'rc-slider/assets/index.css';
 import './Navbar.css';
@@ -57,7 +57,7 @@ class Navbar extends Component {
                     open={this.state.open}
                     autoHideDuration={3000}
                     message={
-                        <span id='message-id'>
+                        <span id="message-id">
                             Format Changed To {format.toUpperCase()}
                         </span>
                     }
@@ -68,9 +68,9 @@ class Navbar extends Component {
                     action={[
                         <IconButton
                             onClick={this.closeSnackbar}
-                            color='inherit'
-                            key='close'
-                            aria-label='close'
+                            color="inherit"
+                            key="close"
+                            aria-label="close"
                         >
                             <CloseIcon />
                         </IconButton>
