@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CiBYO---The-Color-App/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/CiBYO---The-Color-App/static/js/main.b49c1373.chunk.js",
+    "main.js.map": "/CiBYO---The-Color-App/static/js/main.b49c1373.chunk.js.map",
+    "runtime-main.js": "/CiBYO---The-Color-App/static/js/runtime-main.30295693.js",
+    "runtime-main.js.map": "/CiBYO---The-Color-App/static/js/runtime-main.30295693.js.map",
+    "static/css/2.b1c92442.chunk.css": "/CiBYO---The-Color-App/static/css/2.b1c92442.chunk.css",
+    "static/js/2.175cfb64.chunk.js": "/CiBYO---The-Color-App/static/js/2.175cfb64.chunk.js",
+    "static/js/2.175cfb64.chunk.js.map": "/CiBYO---The-Color-App/static/js/2.175cfb64.chunk.js.map",
+    "static/js/3.e09dc212.chunk.js": "/CiBYO---The-Color-App/static/js/3.e09dc212.chunk.js",
+    "static/js/3.e09dc212.chunk.js.map": "/CiBYO---The-Color-App/static/js/3.e09dc212.chunk.js.map",
+    "index.html": "/CiBYO---The-Color-App/index.html",
+    "static/css/2.b1c92442.chunk.css.map": "/CiBYO---The-Color-App/static/css/2.b1c92442.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/CiBYO---The-Color-App/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.175cfb64.chunk.js.LICENSE.txt": "/CiBYO---The-Color-App/static/js/2.175cfb64.chunk.js.LICENSE.txt",
+    "static/media/bg.c99d9e1b.svg": "/CiBYO---The-Color-App/static/media/bg.c99d9e1b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30295693.js",
+    "static/css/2.b1c92442.chunk.css",
+    "static/js/2.175cfb64.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b49c1373.chunk.js"
+  ]
+}
