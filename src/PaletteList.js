@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 import { withStyles } from '@material-ui/styles';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
-import styles from './styles/PaletteListStyles';
 import MiniPalette from './MiniPalette';
+import styles from './styles/PaletteListStyles';
 
 class PaletteList extends Component {
     goToPalette(id) {
