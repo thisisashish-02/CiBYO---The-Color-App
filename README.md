@@ -4,7 +4,7 @@
 * This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ### Live Demo
-To see the app in action, go to https://ashish02-colors-app.herokuapp.com/
+To see the app in action, go to https://ashish02-cibyo-colors-app.herokuapp.com/
 
 ### Features
 * Manage color palettes with basic functionalities:
